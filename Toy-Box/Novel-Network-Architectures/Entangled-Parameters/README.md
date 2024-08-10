@@ -1,0 +1,1 @@
+A neural network where some of its parameters are engtangled, meaning when it changes a given parameter, its entangled partner changes the same amount - regardless of if the network touched the partner itself.
